@@ -1,0 +1,45 @@
+@import 'main';
+
+aside {
+	@include span-columns(3);
+	@include omega();
+
+	@include media($tablet) {
+		@include shift(1);
+	}
+
+	@include media($mobile) {
+		@include span-columns(8);
+		@include shift(1);
+		margin-bottom: 1em;
+	}
+
+	a {
+		display: block;
+		color: $highlight_color;
+		margin-bottom: 3px;
+	}
+
+	address {
+		margin: 20px 0px;
+		font-style: normal;
+	}
+
+	.resume-actions {
+		@media print {
+			display: none;
+		}
+
+		hr {
+			border: 0;
+			width: 80%;
+			height: 1px;
+			background-color: #ccc;
+			margin: 1em 0;
+		}
+
+		@include media($mobile) {
+			display: none;
+		}
+	}
+}
