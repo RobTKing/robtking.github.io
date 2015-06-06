@@ -16,11 +16,11 @@ Built mobile applications for the Reynolds School of Journalism, and several cli
 Developed mobile applications for clients, on both Windows Phone and iOS platforms. Communicated with clients to determine project requirements, deadlines, etc. Built mobile applications that worked with web backends to display data from a remote service. Created the CAFNR app on the iOS App Store.  
 
 ##Education  
-University of Missouri, Columbia, MO — B.S. Information Technology, 2014, with honors
+University of Missouri, Columbia, MO — B.S. Information Technology, 2014, with honors  
 Mineral Area College, Park Hills, MO — A.A. Computer Science, 2011
 
 ##Skills
-Proficient in C#,Objective-C, and Java languages. Experienced with Ruby on Rails, C++, Swift and development for multiple mobile application platforms including iOS, Windows 8, and Android. Familiar with web technologies such as HTML, CSS, and PHP. Some experience with relational databases, especially PostgreSQL.  
+Proficient in C#, Objective-C, and Java languages. Experienced with Ruby on Rails, C++, Swift and development for multiple mobile application platforms including iOS, Windows 8, and Android. Familiar with web technologies such as HTML, CSS, and PHP. Some experience with relational databases, especially PostgreSQL.  
 
 ##References  
 
@@ -28,6 +28,6 @@ Proficient in C#,Objective-C, and Java languages. Experienced with Ruby on Rails
 
 573-355-7794	tyten@tyten.com
 
-###Geoff Pado, Founder of Cocoatype LLC
+###Geoff Pado, Software Engineer, L4 Mobile
 
-636-744-5254	geoff@newsy.com
+636-744-5254	geoff@pado.name
