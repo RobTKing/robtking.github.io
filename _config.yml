@@ -7,7 +7,6 @@ description: # this means to ignore newlines until "baseurl:"
 url: "http://robking.me" # the base hostname & protocol for your site
 twitter_username: robtylerking
 github_username:  RobTKing
-baseurl: '/rob_website'
 paginate: 3
 
 # Build settings
