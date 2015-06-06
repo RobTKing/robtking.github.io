@@ -22,7 +22,7 @@ defaults:
     values:
       author: Rob King
       layout: "post"
-      comments: true
+      comments: false
   -
     scope:
       path: "" # an empty string here means all files in the project
