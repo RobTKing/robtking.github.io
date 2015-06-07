@@ -9,6 +9,10 @@
       </a>
       <nav class="navbar" role="navigation">
         <ul class="nav">
+          <li {% if location == current %} class="nav__item--current" {% else %}
+           class="nav__item" {% endif %}>
+            <a href="/rob-king/">About</a>
+          </li>
         {% for page in site.pages %}
           <!-- Compare page.title to URL -->
           {% assign current = page.title | downcase %}
