@@ -3,6 +3,8 @@ title: Résumé
 permalink: /resume/
 ---
 
+[Download as PDF](/rob-resume.pdf)
+
 ##Profile  
 
 I’m Rob King, a young application developer at the University of Missouri. I’m learning a lot about mobile application development from my friends and colleagues. I’m looking for opportunities to expand my learning experiences.
