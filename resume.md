@@ -11,8 +11,8 @@ I’m Rob King, a young application developer at the University of Missouri. I�
 
 ##Experience  
 
-###Junior Mobile Application Developer, University of Missouri — 2013–2015
-Built mobile applications for the Reynolds School of Journalism, and several clients thereof. Acted as teacher’s aide for the mobile application development class, including designing homework projects, grading, and tutoring students in office hours.
+###Junior Mobile Application Developer, Reynolds Journalism Institute — 2013–2015
+Built mobile applications for the Reynolds Journalism Institute, and several clients thereof. Acted as teacher’s aide for the mobile application development class, including designing homework projects, grading, and tutoring students in office hours.
 
 ###Mobile App developer, app treats llc — 2013–Present
 Developed mobile applications for clients, on both Windows Phone and iOS platforms. Communicated with clients to determine project requirements, deadlines, etc. Built mobile applications that worked with web backends to display data from a remote service. Created the CAFNR app on the iOS App Store.  
